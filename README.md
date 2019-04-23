@@ -19,3 +19,7 @@ title = {{Improved Gesture Recognition Based on sEMG Signals and TCN}},
 year = {2019}
 }
 ```
+
+### Acknowledgements
+The work is supported by the Andreas Mentzelopoulos Scholarships for the University of Patras and the VUB-UPatras International
+Joint Research Group (IJRG) on ICT.
