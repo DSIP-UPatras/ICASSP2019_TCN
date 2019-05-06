@@ -29,4 +29,4 @@ Joint Research Group (IJRG) on ICT.
 Panagiotis Tsinganos | PhD Candidate  
 University of Patras, Greece  
 Vrije Universiteit Brussel, Belgium  
-<panagiotis.tsinganos@ece.upatras.g>
+<panagiotis.tsinganos@ece.upatras.gr>
