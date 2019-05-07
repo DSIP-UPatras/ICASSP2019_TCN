@@ -121,7 +121,7 @@ for key in params_gen.keys():
     PARAMS_VALID_GENERATOR[key] = params_gen[key]
 
 # 3. Initialization
-INPUT_DIRECTORY = '../data/Ninapro-DB1'
+INPUT_DIRECTORY = '../dataset/Ninapro-DB1-Proc'
 PARAMS_TRAIN_GENERATOR['preprocess_function_1'] = [preprocessing.lpf]
 PARAMS_TRAIN_GENERATOR['preprocess_function_1_extra'] = [{'fs': 100}]
 PARAMS_TRAIN_GENERATOR['data_type'] = 'rms'
