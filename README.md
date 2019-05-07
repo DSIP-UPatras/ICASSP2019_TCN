@@ -12,7 +12,7 @@ The following python packages are needed to run the code:
 - numpy 1.16.2
 
 ## Usage
-To replicate the experiments described in the paper run: `bash run.sh`. Before running the code download the Ninapro dataset as described in the [dataset](../dataset/README.md) folder.
+To replicate the experiments described in the paper run: `bash run.sh`. Before running the code download the Ninapro dataset as described in the [dataset](../blob/master/dataset/README.md) folder.
 
 ## License
 If this code helps your research, please cite the [paper](https://ieeexplore.ieee.org/document/8683239/).
