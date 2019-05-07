@@ -3,6 +3,17 @@
 This is the code accompaniment for the following paper presented at [ICASSP 2019](https://2019.ieeeicassp.org/): <br/>
 P. Tsinganos et al., “Improved Gesture Recognition Based on sEMG Signals and TCN,” in ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019, pp. 1169–1173.
 
+## Requirements
+The following python packages are needed to run the code:
+- keras 2.2.4 (from tensorflow library)
+- tensorflow 1.13.1
+- sklearn 0.20.3
+- scipy 1.2.1
+- numpy 1.16.2
+
+## Usage
+To replicate the experiments described in the paper run: `bash run.sh`. Before running the code download the Ninapro dataset as described in the [dataset](../dataset/README.md) folder.
+
 ## License
 If this code helps your research, please cite the [paper](https://ieeexplore.ieee.org/document/8683239/).
 
