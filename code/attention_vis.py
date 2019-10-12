@@ -53,7 +53,7 @@ model = model_from_json(
     loaded_model_json,
     custom_objects={
         'AttentionWithContext': AttentionWithContext,
-        'MaskedConv1D': MaskedConv1D
+        'CausalConv1D': CausalConv1D
     }
 )
 
