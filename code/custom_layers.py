@@ -241,6 +241,6 @@ class CausalConv1D(Conv1D):
         config = {
             'supports_masking': self.supports_masking
         }
-        base_config = super(MaskedConv1D, self).get_config()
+        base_config = super(CausalConv1D, self).get_config()
         return dict(list(base_config.items()) + list(config.items()))
 
